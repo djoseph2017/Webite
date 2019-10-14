@@ -1,2 +1,4 @@
 # Webite
-Using NPM - Start the react App
+Using NPM - Install the react App
+Using NPM - create-raect app customName
+
