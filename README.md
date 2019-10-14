@@ -1,4 +1,6 @@
 # Website
-Using NPM - Install the react App
-Using NPM - create-raect app customName
-test
+#######################Starting of Project#####################################################
+Using NPM - Install the react App \n
+Using NPM - create-react app mypage \n
+npm start \n
+###############################################################################################
